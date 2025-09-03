@@ -28,14 +28,15 @@ Think of it like this:
 
 ---
 
-## 📂 Project Structure
-'''
+'''## 📂 Project Structure
+
 Edu-App/
 │── main.py # FastAPI entry point
 │── system_info.py # Function to fetch system information
 │── templates/
 │ └── index.html # HTML template
 │── requirements.txt # Python dependencies
+
 ## 🛠️ Installation
 
 ### 1. Clone the repository
